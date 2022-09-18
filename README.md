@@ -11,6 +11,8 @@
 - Now its 2022 and i'm pretty familiar with python, html-css, sql, php, javascript, django and i can code some dart in flutter,
 - Im making this profile and sharing my projects from now on for future and Jobs.
 - Thanks for reading!
+-
+-
 
 - ----- TR -----
 - Benim adım Rouzbeh, İstanbul/Türkiye'de yaşıyorum,
