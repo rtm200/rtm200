@@ -4,18 +4,18 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rouzbehattar@gmail.com
 --------------------------------------------
-- ENG
+- ENG:
 - Well my name is Rouzbeh living in Istanbul/Turkey,
 - Studying at <nişantaşı University | Computer Engineering>, 
-I started to learn programming in 2018/2019 with python and html-css,
-Now its 2022 and i'm pretty familiar with python, html-css, sql, php, javascript, django and i can code some dart in flutter,
-Im making this profile and sharing my projects from now on for future and Jobs.
-Thanks for reading!
+- I started to learn programming in 2018/2019 with python and html-css,
+- Now its 2022 and i'm pretty familiar with python, html-css, sql, php, javascript, django and i can code some dart in flutter,
+- Im making this profile and sharing my projects from now on for future and Jobs.
+- Thanks for reading!
 
------ TR -----
-Benim adım Rouzbeh, İstanbul/Türkiye'de yaşıyorum,
-<Nişantaşı Üniversitesi | Bilgisayar Mühendisliği> Okuyorum,
-2018/2019 yılında python ve html-css ile programlama öğrenmeye başladım,
-Şimdi 2022 ve python, html-css, sql, php, javascript, Django ile iyice aşinayım ve biraz da dart kodlayabilirim,
-Bu profili gelecek ve iş hayatıma hazırlayıp projelerimi paylaşıyorum.
-Okuduğunuz için teşekkürler!
+- TR:
+- Benim adım Rouzbeh, İstanbul/Türkiye'de yaşıyorum,
+- <Nişantaşı Üniversitesi | Bilgisayar Mühendisliği> Okuyorum,
+- 2018/2019 yılında python ve html-css ile programlama öğrenmeye başladım,
+- Şimdi 2022 ve python, html-css, sql, php, javascript, Django ile iyice aşinayım ve biraz da dart kodlayabilirim,
+- Bu profili gelecek ve iş hayatıma hazırlayıp projelerimi paylaşıyorum.
+- Okuduğunuz için teşekkürler!
