@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @rouzbehatm
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning How to be on my own
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rouzbehattar@gmail.com
+- Instagram: @ruzbe_xd
+- Phone +905349892256
+- Telegram: @rouzbehattar
 --------------------------------------------
 - ----- ENG -----
 - Well my name is Rouzbeh living in Istanbul/Turkey,
