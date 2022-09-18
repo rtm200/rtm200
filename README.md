@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rouzbehattar@gmail.com
 --------------------------------------------
-- ENG:
+- ----- ENG -----
 - Well my name is Rouzbeh living in Istanbul/Turkey,
 - Studying at <nişantaşı University | Computer Engineering>, 
 - I started to learn programming in 2018/2019 with python and html-css,
@@ -12,7 +12,7 @@
 - Im making this profile and sharing my projects from now on for future and Jobs.
 - Thanks for reading!
 
-- TR:
+- ----- TR -----
 - Benim adım Rouzbeh, İstanbul/Türkiye'de yaşıyorum,
 - <Nişantaşı Üniversitesi | Bilgisayar Mühendisliği> Okuyorum,
 - 2018/2019 yılında python ve html-css ile programlama öğrenmeye başladım,
